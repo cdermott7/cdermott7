@@ -6,8 +6,6 @@
        - dermottcole@gmail.com
        - derm8350@mylaurier.ca
        - cdermott@uwaterloo.ca
-       - cole_dermott95 (on instagram)
-       - cdermott7 (on snapchat)
        - 9058052755 (mobile)
        
 <!---
