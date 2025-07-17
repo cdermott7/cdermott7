@@ -7,8 +7,6 @@
        - derm8350@mylaurier.ca
        - cdermott@uwaterloo.ca
        - 9058052755 (mobile)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cole-dermott)](https://github.com/anuraghazra/github-readme-stats)
        
 <!---
 cdermott7/cdermott7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
